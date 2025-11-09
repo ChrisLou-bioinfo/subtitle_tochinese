@@ -1,0 +1,227 @@
+1
+00:00:03,560 --> 00:00:12,700
+a key driver of malignant transformation
+
+2
+00:00:12,700 --> 00:00:15,469
+tumor maintenance and resistance to
+
+3
+00:00:15,469 --> 00:00:18,200
+therapy is the impairment of a critical
+
+4
+00:00:18,200 --> 00:00:20,870
+cellular function a puto --ss or
+
+5
+00:00:20,870 --> 00:00:26,450
+programmed cell death abt 199 or GDC
+
+6
+00:00:26,450 --> 00:00:29,840
+zero 199 is a small molecule designed to
+
+7
+00:00:29,840 --> 00:00:32,689
+selectively bind and inhibit bcl-2 a
+
+8
+00:00:32,689 --> 00:00:35,890
+critical regulator of a puto psious
+
+9
+00:00:35,890 --> 00:00:38,839
+bcl-2 is a member of a larger family of
+
+10
+00:00:38,839 --> 00:00:41,390
+structurally related proteins that are
+
+11
+00:00:41,390 --> 00:00:44,480
+either pro a photonic or anti a photonic
+
+12
+00:00:44,480 --> 00:00:47,089
+the dynamic balance between anti a
+
+13
+00:00:47,089 --> 00:00:50,390
+patata members such as bcl-2 and pro a
+
+14
+00:00:50,390 --> 00:00:52,760
+patata family members can determine
+
+15
+00:00:52,760 --> 00:00:55,879
+whether a cell lives or dies by binding
+
+16
+00:00:55,879 --> 00:00:57,829
+common structures shared among pro a
+
+17
+00:00:57,829 --> 00:01:01,579
+patata family members bcl-2 inhibits a
+
+18
+00:01:01,579 --> 00:01:06,200
+puto --ss in response to stress normal
+
+19
+00:01:06,200 --> 00:01:08,570
+cells as well as certain cancer cells
+
+20
+00:01:08,570 --> 00:01:11,180
+will up regulate pro a patata family
+
+21
+00:01:11,180 --> 00:01:13,820
+members in normal cells this increased
+
+22
+00:01:13,820 --> 00:01:16,310
+expression of pro a patata proteins is
+
+23
+00:01:16,310 --> 00:01:20,240
+sufficient to induce a puto sious in
+
+24
+00:01:20,240 --> 00:01:22,579
+contrast malignant cells will often
+
+25
+00:01:22,579 --> 00:01:25,549
+express more bcl-2 to keep pro a patata
+
+26
+00:01:25,549 --> 00:01:28,490
+kembers in check this prevents cancer
+
+27
+00:01:28,490 --> 00:01:30,680
+cells from eliciting and a patata chrous
+
+28
+00:01:30,680 --> 00:01:31,899
+Ponce
+
+29
+00:01:31,899 --> 00:01:34,909
+although increased bcl-2 expression
+
+30
+00:01:34,909 --> 00:01:36,979
+allows the cancer cell to survive under
+
+31
+00:01:36,979 --> 00:01:39,829
+continual metabolic stress the reserve
+
+32
+00:01:39,829 --> 00:01:41,780
+of pro a patata family members
+
+33
+00:01:41,780 --> 00:01:44,270
+sequestered by bcl-2 can leave those
+
+34
+00:01:44,270 --> 00:01:47,890
+cells vulnerable to cell death
+
+35
+00:01:47,979 --> 00:01:51,770
+co-developed by AB V and Genentech 199
+
+36
+00:01:51,770 --> 00:01:54,109
+is an orally available small molecule
+
+37
+00:01:54,109 --> 00:01:56,719
+designed to selectively bind and inhibit
+
+38
+00:01:56,719 --> 00:02:02,479
+bcl-2 upon binding bcl-2 199 can
+
+39
+00:02:02,479 --> 00:02:04,340
+displace the store of pro a patata
+
+40
+00:02:04,340 --> 00:02:07,399
+proteins in malignant cells this causes
+
+41
+00:02:07,399 --> 00:02:09,350
+a shift in the dynamic balance between
+
+42
+00:02:09,350 --> 00:02:11,220
+the available bcl-2
+
+43
+00:02:11,220 --> 00:02:14,670
+and pro a patata family members inducing
+
+44
+00:02:14,670 --> 00:02:18,300
+a puto sious with bcl-2 inhibited by
+
+45
+00:02:18,300 --> 00:02:21,540
+$1.99 pro a patata proteins are left
+
+46
+00:02:21,540 --> 00:02:23,610
+free to promote poor formation in the
+
+47
+00:02:23,610 --> 00:02:26,550
+mitochondria signaling a point of no
+
+48
+00:02:26,550 --> 00:02:27,000
+return
+
+49
+00:02:27,000 --> 00:02:31,920
+for the cell cytochrome C and other
+
+50
+00:02:31,920 --> 00:02:34,140
+factors are subsequently released from
+
+51
+00:02:34,140 --> 00:02:37,140
+the mitochondria initiating the caspase
+
+52
+00:02:37,140 --> 00:02:40,740
+activation cascade the activation of
+
+53
+00:02:40,740 --> 00:02:43,260
+these proteolytic enzymes coordinates
+
+54
+00:02:43,260 --> 00:02:45,360
+the ordered destruction of the cancer
+
+55
+00:02:45,360 --> 00:02:51,390
+cell app-v and Genentech are continuing
+
+56
+00:02:51,390 --> 00:02:53,880
+their research into the selective bcl-2
+
+57
+00:02:53,880 --> 00:03:00,830
+inhibitor ABT 199 or GDC 0 199

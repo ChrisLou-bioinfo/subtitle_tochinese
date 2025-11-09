@@ -1,0 +1,284 @@
+1
+00:00:01,730 --> 00:00:14,490
+p53 tumor suppressor your body's cells
+p53肿瘤抑制因子 身体细胞的守护者
+
+2
+00:00:12,300 --> 00:00:17,460
+and tissues are under constant stress
+组织持续承受压力。
+
+3
+00:00:14,490 --> 00:00:21,949
+from the environment such as DNA damage
+来自环境的因素，如DNA损伤
+
+4
+00:00:17,460 --> 00:00:21,949
+from UV light emitted from the Sun
+来自太阳发出的紫外线
+
+5
+00:00:24,830 --> 00:00:30,810
+damage to your DNA causes cells to
+损害你的DNA会导致细胞
+
+6
+00:00:27,990 --> 00:00:35,160
+follow one of three outcomes either the
+遵循以下三种结果之一：
+
+7
+00:00:30,810 --> 00:00:37,559
+cell dies stopped growing permanently or
+细胞死亡，停止永久生长。
+
+8
+00:00:35,160 --> 00:00:43,800
+slows down to repair before resuming
+在恢复前减速进行修复
+
+9
+00:00:37,559 --> 00:00:48,110
+normal growth the protein p53 plays an
+正常生长中，蛋白质p53发挥着作用。
+
+10
+00:00:43,800 --> 00:00:48,110
+essential role in determining this fate
+在决定这一命运中起关键作用
+
+11
+00:00:50,270 --> 00:00:58,480
+p53 plays a critical role in keeping
+p53在维持细胞稳态中起着关键作用
+
+12
+00:00:53,640 --> 00:01:01,899
+cells healthy on our bodies cancer free
+我们身体上的细胞健康无癌。
+
+13
+00:00:58,480 --> 00:01:08,050
+half of all human cancers of p53
+人类癌症中半数与p53相关
+
+14
+00:01:01,899 --> 00:01:12,270
+switched off p53 is found in the nucleus
+在细胞核中发现了关闭的p53
+
+15
+00:01:08,050 --> 00:01:16,119
+of each cell responding to DNA damage
+每个细胞对DNA损伤的响应
+
+16
+00:01:12,270 --> 00:01:19,259
+p53 activates distinct sets of genes
+p53激活不同的基因组合
+
+17
+00:01:16,119 --> 00:01:23,500
+that drive processes such as cell death
+驱动细胞死亡等过程
+
+18
+00:01:19,259 --> 00:01:26,700
+DNA repair or growth arrest and this is
+DNA修复或生长停滞，这就是
+
+19
+00:01:23,500 --> 00:01:30,340
+what determines the outcome of the cell
+什么决定了细胞的命运
+
+20
+00:01:26,700 --> 00:01:34,000
+the activation of genes involved in DNA
+DNA相关基因的激活
+
+21
+00:01:30,340 --> 00:01:41,500
+repair has been linked to p53 x' ability
+修复与p53的能力相关联
+
+22
+00:01:34,000 --> 00:01:44,560
+to suppress cancer in the nucleus DNA is
+抑制细胞核内DNA的癌症
+
+23
+00:01:41,500 --> 00:01:47,250
+wound around histone proteins to create
+缠绕在组蛋白上形成
+
+24
+00:01:44,560 --> 00:01:47,250
+chromatin
+染色质
+
+25
+00:02:02,979 --> 00:02:14,840
+genes are encoded in your DNA p53
+基因编码于你的DNA p53中。
+
+26
+00:02:11,660 --> 00:02:18,020
+targets specific genes controlling
+针对控制特定基因的目标
+
+27
+00:02:14,840 --> 00:02:24,220
+whether they are turned on or off via
+无论它们是开启还是关闭
+
+28
+00:02:18,020 --> 00:02:28,520
+their DNA promoter the DNA promoter
+它们的DNA启动子
+
+29
+00:02:24,220 --> 00:02:35,750
+contains a part specific for p53 known
+包含一个针对p53的特异性部分
+
+30
+00:02:28,520 --> 00:02:37,700
+as the p53 response element the stars of
+作为p53反应元件的明星
+
+31
+00:02:35,750 --> 00:02:41,750
+the gene is found within the core
+该基因位于核心区域内。
+
+32
+00:02:37,700 --> 00:02:45,140
+promoter p53 binds its response elements
+启动子p53结合其响应元件
+
+33
+00:02:41,750 --> 00:02:48,190
+and helps bring RNA polymerase to the
+并有助于将RNA聚合酶引导至
+
+34
+00:02:45,140 --> 00:02:48,190
+start of the gene
+基因起始
+
+35
+00:02:55,620 --> 00:03:01,920
+RNA polymerase is the enzyme responsible
+RNA聚合酶是负责转录的酶。
+
+36
+00:02:58,769 --> 00:03:08,819
+for reading and transcribing for gene
+用于基因的读取和转录
+
+37
+00:03:01,920 --> 00:03:12,810
+code this p53 target gene is currently
+编码此p53靶基因目前
+
+38
+00:03:08,819 --> 00:03:21,299
+off RNA polymerase is not reading the
+关闭RNA聚合酶未在读取
+
+39
+00:03:12,810 --> 00:03:23,879
+gene code the amount of p53 increases in
+基因编码的p53数量增加
+
+40
+00:03:21,299 --> 00:03:26,180
+response to UV induced damage from the
+对紫外线引起的损伤的响应
+
+41
+00:03:23,879 --> 00:03:26,180
+Sun
+太阳
+
+42
+00:03:28,120 --> 00:03:31,419
+[Applause]
+[掌声]
+
+43
+00:03:36,090 --> 00:03:50,000
+the highly dynamic p53 protein is made
+高度动态的p53蛋白被合成
+
+44
+00:03:40,230 --> 00:03:59,700
+of four identical parts each part
+四个相同部分中的每个部分
+
+45
+00:03:50,000 --> 00:04:06,000
+contains a DNA binding domain p53 binds
+包含一个DNA结合域，p53蛋白结合于此。
+
+46
+00:03:59,700 --> 00:04:08,310
+DNA all four DNA binding domains combine
+DNA所有四个DNA结合域结合
+
+47
+00:04:06,000 --> 00:04:11,090
+the response elements in the promoter of
+启动子中的反应元件
+
+48
+00:04:08,310 --> 00:04:11,090
+target genes
+靶基因
+
+49
+00:04:27,389 --> 00:04:36,599
+to turn the gene on p53 does two things
+开启p53基因会产生两种作用。
+
+50
+00:04:32,030 --> 00:04:39,419
+first p53 makes the gene more accessible
+首先，p53使基因更易于表达。
+
+51
+00:04:36,599 --> 00:04:41,840
+by recruiting proteins that remodel the
+通过招募重塑蛋白质的
+
+52
+00:04:39,419 --> 00:04:41,840
+DNA
+脱氧核糖核酸
+
+53
+00:05:04,370 --> 00:05:13,370
+second p53 brings RNA polymerase to the
+第二个p53将RNA聚合酶带到
+
+54
+00:05:09,320 --> 00:05:16,370
+now accessible target gene now switched
+目标基因现已激活可及
+
+55
+00:05:13,370 --> 00:05:20,000
+on the gene will be read and transcribed
+基因将被读取并转录。
+
+56
+00:05:16,370 --> 00:05:26,530
+by RNA polymerase activating pathways
+通过RNA聚合酶激活途径
+
+57
+00:05:20,000 --> 00:05:26,530
+such as soda growth arrest or DNA repair
+例如苏打水生长停滞或DNA修复
